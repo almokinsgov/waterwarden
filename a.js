@@ -1,3 +1,4 @@
+<script>
 const schema = [
 {
   "name": "SceneID",
@@ -1095,3 +1096,4 @@ const schema = [
   }
 }
 ]; // Replace with full JSON array from scene_schema_metadata.json
+</script>
